@@ -8,6 +8,7 @@
 ## https://github.com/dezibolt/securepoint_remote_code_execution         ##
 ##                                                                       ##
 ## This script needs PoshSSH Module installed in Powershell              ##
+## https://www.powershellgallery.com/packages/Posh-SSH                   ##
 ###########################################################################
 
 $path = Read-Host "Input path to your csv-file"
